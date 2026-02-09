@@ -8,7 +8,7 @@ function App() {
     <div>
       <Navbar /> {/* Navbar at top */}
       <div style={{ padding: 20 }}>
-        <h1>Welcome to Hatkora - Sylhet</h1>
+        <h1>Welcome to Shatkora - Sylhet</h1>
         <p>
           Known as the city of two leaves and one bud, explore Ali Amjad's Clock,
           Kean Bridge, tea gardens, and ancient shrines.

@@ -1,6 +1,5 @@
 // src/components/Navbar.jsx
 import React from "react";
-
 function Navbar() {
   const navStyle = {
     position: "absolute", // floats above hero image
@@ -50,12 +49,12 @@ function Navbar() {
       {/* Logo in the center */}
       <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
         <img
-          src="/img/hatkora-logo.png"
+          src= "/img/Gemini_Generated_Image_5ruvb25ruvb25ruv.png"
           alt="Hatkora Logo"
-          style={{ width: "40px", height: "40px" }}
-        />
+          style={{ width: "360px", height: "270px" }}
+        /> 
         <span style={{ fontWeight: "bold", color: "#1f3d2b", fontSize: "20px" }}>
-          Hatkora
+
         </span>
       </div>
 
